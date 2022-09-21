@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main (String[] s) {
+        int aprobados = 5;
+        Integer array [] = new Integer[6];
+        Scanner scn = new Scanner (System.in);
+        for(int i = 0; i<6; i++){
+            System.out.println(" Introduzca su nota del examen " + i);
+            array[i] = scn.nextInt();
+        }
+        
+        for(int i = 0; i < 6; i++) {
+            System.out.println( + array[i] + " esta " ); 
+            if(array[i] >=aprobados) {
+                System.out.print(" aprobado ");
+            }else System.out.print (" suspendido ");
+            System.out.print(" el examen "); 
+        }
+
+    }
+}

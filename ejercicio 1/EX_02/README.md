@@ -1,0 +1,1 @@
+El ejercicio me ha parecido bastante sencillo una vez he comprendido cual era el funcionamiento de este. Además me ha servido bastante para recordar conceptos del año pasado que los tenia un poco oxidados. El ejercicio consisitia en implementar IF para las ordenes de diferentes tipos de compras dentro de un servicio web. He invertido en el ejercicio aproximadamente 30 minutos. 
